@@ -1,0 +1,8 @@
+tmp
+codeship.aes
+.git
+.bundle
+node_modules
+vendor/bundle
+vendor/assets/components
+config/generated
